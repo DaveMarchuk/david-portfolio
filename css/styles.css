@@ -75,10 +75,29 @@ h3  {
   text-align: center;
 }
 
+.column-four {
+  width: 350px;
+  float: right;
+  position: absolute;
+  left: 76%;
+  margin-left: auto;
+  background-color: beige;
+  border: solid black;
+  box-sizing: border-box;
+  margin: auto;
+}
+
 h2  {
   text-align: center;
 }
 
+.under {
+  position: absolute;
+  bottom: 5%;
+  text-align: center;
+  margin: auto;
+  width: 100%;
+}
 body  {
   background-image: -webkit-radial-gradient(circle, cyan, gray);
 }
