@@ -16,3 +16,14 @@
   margin-right: auto;
   width: 40%;
 }
+
+.sidebar  {
+  margin: auto;
+  width: auto;
+  float: left;
+  border: solid black;
+  border-width: 1px;
+  background-color: beige;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
