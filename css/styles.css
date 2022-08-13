@@ -38,6 +38,26 @@ h3  {
   font-style: oblique;
 }
 
+.column-one {
+  width: 350px;
+  float: left;
+  position: absolute;
+  right: 75%;
+  margin-left: auto;
+  background-color: beige;
+  border: solid black;
+}
+
+.column-two {
+  width: 350px;
+  float: right;
+  position: absolute;
+  left: 30%;
+  margin-left: auto;
+  background-color: beige;
+  border: solid black;
+}
+
 body  {
   background-image: -webkit-radial-gradient(circle, cyan, gray);
 }
